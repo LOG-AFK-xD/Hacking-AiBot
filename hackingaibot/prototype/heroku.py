@@ -59,9 +59,9 @@ async def _(logg):
     await logg.client.send_file(
         logg.chat_id,
         "logs.txt",
-        thumb="hackingaibot/resources/Gladiators.jpeg",
+        thumb="hackingaibot/resources/Blaze.jpeg",
         reply_to=logg.id,
-        caption="@Gladiators_Projects Logs.",
+        caption="@Team_Bot_Update Logs.",
     )
 
     await asyncio.sleep(5)
