@@ -171,7 +171,7 @@ Syntax: /join <link>
 /pjoin: Joins private group/channel.
 Syntax: /join <hash>
 
-Note: If all you have is a link like this one: https://t.me/joinchat/AAAAAFFszQPyPEZ7wgxLtd, The part after the https://t.me/joinchat/, this is, AAAAAFFszQPyPEZ7wgxLtd on this example, is the hash of the chat or channel.
+Note: If all you have is a link like this one: https://t.me/FriendsForever_xD?videochat, The part after the https://t.me/FriendsForever_xD?videochat, this is, AAAAAFFszQPyPEZ7wgxLtd on this example, is the hash of the chat or channel.
 
 ©️ @Team_Bot_Update
 """
