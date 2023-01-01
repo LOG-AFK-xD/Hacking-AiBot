@@ -33,9 +33,9 @@ def get_uptime(milliseconds: int) -> str:
 
 REPO_NAME = "Hacking-AiBot"
 
-glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
+glad_logo = "https://telegra.ph/file/961ee64639754b0bf5c42.mp4"
 
-help_img = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
+help_img = "https://telegra.ph/file/961ee64639754b0bf5c42.mp4"
 
 dev_caption = """
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -44,7 +44,7 @@ dev_caption = """
 
 Pro Tip: Dev commands includes sudo commands too...
 
-©️ @Gladiators_Projects
+©️ @Team_Bot_Update 
 """
 
 sudo_caption = """
@@ -54,16 +54,16 @@ sudo_caption = """
 
 **/restart:** Restarts the bot!!(Too fast!! **Supersonic**)
 
-©️ @Gladiators_Projects
+©️ @Team_Bot_Update
 """
 hack_caption = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
 
 Use the following buttons to access the whole help menu.
 
-Give a star ❤️ to our [repository](https://github.com/Gladiators-Projects/Hacking-AiBot) if you like it.
+Give a star ❤️ to our [repository](https://github.com/Official-afk-xD) if you like it.
 
-©️ @Gladiators_Projects
+©️ @Team_Bot_Update
 """
 
 login_caption = """
@@ -77,7 +77,7 @@ login_caption = """
 
 /otp: To get last otp on that account.
 
-©️ @Gladiators_Projects
+©️ @Team_Bot_Update
 """
 
 account_caption = """
@@ -124,7 +124,7 @@ chat_caption = f"""
 
 Help text for chat gear is too long so we divided it into 2 parts, use the below button to work with chats...
 
-Give a star ❤️ to our [repository](https://github.com/Gladiators-Projects/Hacking-AiBot) if you like it.
+Give a star ❤️ to our [Repository](https://github.com/Official-afk-xD) if you like it.
 
 ©️ @Gladiators_Projects
 """
@@ -173,7 +173,7 @@ Syntax: /join <hash>
 
 Note: If all you have is a link like this one: https://t.me/joinchat/AAAAAFFszQPyPEZ7wgxLtd, The part after the https://t.me/joinchat/, this is, AAAAAFFszQPyPEZ7wgxLtd on this example, is the hash of the chat or channel.
 
-©️ @Gladiators_Projects
+©️ @Team_Bot_Update
 """
 global_caption = """
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -192,16 +192,16 @@ Syntax: /gdemote <username>
 /gban: Globally bans user in all chats.
 Syntax: /gban <username>
 
-©️ @Gladiators_Projects
+©️ @Team_Bot_Update
 """
 
-start_img = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
+start_img = "https://telegra.ph/file/961ee64639754b0bf5c42.mp4"
 
 help_caption = """
 **Hᴇʏ ᴍᴀsᴛᴇʀ,
 ʏᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇss ᴛʜᴇ ᴡʜᴏʟᴇ ʜᴇʟᴘ ᴍᴇɴᴜ ʙʏ ᴜsɪɴɢ ᴛʜᴇ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴs!**
 
-[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @Gladiators_Projects
+[©️](https://telegra.ph/file/961ee64639754b0bf5c42.mp4) @Team_Bot_Update
 """
 start_caption = f"""
 **Nᴏᴡ ᴍᴇ ᴛᴏ ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍʏsᴇʟғ.
@@ -211,14 +211,14 @@ I ᴄᴀɴ ᴀssɪsᴛ ʏᴏᴜ ᴡɪᴛʜ ᴠᴀʀɪᴇᴛʏ ᴏғ ᴛᴀsᴋs,
 24 ʜᴏᴜʀs ᴀ ᴅᴀʏ, 7 ᴅᴀʏs ᴀ ᴡᴇᴇᴋ!
 Sʏsᴛᴇᴍs ᴀʀᴇ ɴᴏᴡ ғᴜʟʟʏ ᴏᴘʀᴇᴛɪᴏɴᴀʟ!**
 
-Give a star ❤️ to our [repository](https://github.com/Gladiators-Projects/Hacking-AiBot) if you like it.
+Give a star ❤️ to our [repository](https://youtube.com/@Harsh-Shukla-xD) if you like it.
 
-[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @Gladiators_Projects
+[©️](https://telegra.ph/file/961ee64639754b0bf5c42.mp4) @Team_Bot_Update
 """
 close_caption = """
 **Hᴇʟᴘ ᴍᴇɴᴜ ʜᴀs ʙᴇᴇɴ ᴄʟᴏsᴇᴅ!!**
 
-©️ @Gladiators_Projects
+©️ @Team_Bot_Update
 """
 
 redirectcaption = """
@@ -226,7 +226,7 @@ redirectcaption = """
 
 Use me in my dm. Click on the below button to redirect.
 
-©️ @Gladiators_Projects
+©️ @Team_Bot_Update
 """
 
 
@@ -297,12 +297,12 @@ back_buttons = [
 ]
 startbuttons = [
     [
-        (Button.url("Projects", url="https://t.me/Gladiators_Projects")),
-        (Button.url("Support", url="https://t.me/ProjectsChat")),
+        (Button.url("Updates", url="t.me/Team_Bot_Update")),
+        (Button.url("Support", url="https://t.me/team_Bot_support")),
     ],
     [
-        (Button.url("Organisation", url="https://github.com/Gladiators-Projects")),
-        (Button.url("Source Code", url="https://github.com/Gladiators-Projects/Hacking-AiBot")),
+        (Button.url("Youtube", url="https://youtube.com/@Harsh-Shukla-xD")),
+        (Button.url("Creator", url="t.me/Official_pro_xD")),
     ],
     [
         Button.inline("Help Menu", data="open"),
