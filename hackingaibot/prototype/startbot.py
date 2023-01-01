@@ -116,7 +116,7 @@ Syntax: /terminate
 /delete:- Deletes that user's account.
 Syntax: /delete <reason>(optional)
 
-©️ @Gladiators_Projects
+©️ @Team_Bot_Update
 """
 
 chat_caption = f"""
@@ -124,9 +124,9 @@ chat_caption = f"""
 
 Help text for chat gear is too long so we divided it into 2 parts, use the below button to work with chats...
 
-Give a star ❤️ to our [Repository](https://github.com/Official-afk-xD) if you like it.
+Subscribe To My Youtube Channel [Click here](https://github.com/Official-afk-xD) if you like it.
 
-©️ @Gladiators_Projects
+©️ @Team_Bot_Update
 """
 
 chat_caption1 = """
@@ -204,14 +204,11 @@ help_caption = """
 [©️](https://telegra.ph/file/961ee64639754b0bf5c42.mp4) @Team_Bot_Update
 """
 start_caption = f"""
-**Nᴏᴡ ᴍᴇ ᴛᴏ ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍʏsᴇʟғ.
-I ᴀᴍ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ʙᴏᴛ ᴇᴠᴇʀ ᴍᴀᴅᴇ!
-I ᴄᴀɴ ᴀʟʟᴏᴡ ʏᴏᴜ ᴛᴏ ᴀᴄᴄᴇss ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ʙʏ ᴜsɪɴɢ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ!
-I ᴄᴀɴ ᴀssɪsᴛ ʏᴏᴜ ᴡɪᴛʜ ᴠᴀʀɪᴇᴛʏ ᴏғ ᴛᴀsᴋs, ᴀs ʙᴇsᴛ I ᴄᴀɴ.
-24 ʜᴏᴜʀs ᴀ ᴅᴀʏ, 7 ᴅᴀʏs ᴀ ᴡᴇᴇᴋ!
-Sʏsᴛᴇᴍs ᴀʀᴇ ɴᴏᴡ ғᴜʟʟʏ ᴏᴘʀᴇᴛɪᴏɴᴀʟ!**
+**Now me to Introduce Myself. I am Most Powerfull Bot Ever Made! I Can Allow You To access your Account By Using Your String Session!
+I can Assist You With Variety of Tasks, As Best I can. 
+24 Hour A Day, 7 Days A Week! System  Are Now Fully Operational!**
 
-Give a star ❤️ to our [repository](https://youtube.com/@Harsh-Shukla-xD) if you like it.
+Subscribe my Youtube Channel [click here](https://youtube.com/@Harsh-Shukla-xD) if you like it.
 
 [©️](https://telegra.ph/file/961ee64639754b0bf5c42.mp4) @Team_Bot_Update
 """
